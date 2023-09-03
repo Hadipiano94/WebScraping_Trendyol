@@ -4,7 +4,7 @@ import requests
 
 
 URL = "https://www.trendyol.com/apple/macbook-pro-16-m2-max-32gb-1tb-ssd-space-gray-laptop-apple-turkiye-garantili-mnwa3tu-a-p-637235161?boutiqueId=621535&merchantId=968"
-DESIRED_PRICE = 100000
+DESIRED_PRICE = 100000  # in turkish currency TL
 
 my_gmail = "your email"
 gmail_connection = "smtp.gmail.com"
